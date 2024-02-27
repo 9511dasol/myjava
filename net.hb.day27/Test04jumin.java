@@ -3,6 +3,7 @@ package net.hb.day27;
 public class Test04jumin {
 	public static void main(String[] args) {  
 		String jumin = "901124-1857629";
+		String sevin = "901124-2857629";
 		
 		// 1번3번 남자    2번4번 여자 
 		char data = jumin.charAt(7); 
